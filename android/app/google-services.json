@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "367166066163",
+    "project_id": "ubiqr-2aab6",
+    "storage_bucket": "ubiqr-2aab6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367166066163:android:3399a1c5f4b85df5bed686",
+        "android_client_info": {
+          "package_name": "com.foundercode.ubiqcure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367166066163-3e36647jd3vhl2244brgc0lcdf4old4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa6K-KWs4BwpTvzFiu-DR5txltWLrJkV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367166066163-3e36647jd3vhl2244brgc0lcdf4old4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
